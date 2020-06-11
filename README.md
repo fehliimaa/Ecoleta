@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="LICENSE" style="text-decoration: none">
-    <img alt="License" src="https://img.shields.io/github/license/fehliimaa/ecoleta?color=34CB79" />
+    <img alt="License" src="https://github.com/fehliimaa/Ecoleta/blob/master/LICENSE" />
   </a>
 </p>
 
