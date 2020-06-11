@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img alt="Ecoleta Template" src= "https://github.com/fehliimaa/ecoleta/blob/master/assets/template.jpeg?raw=true" />
 
 
@@ -78,7 +77,3 @@ Quero agradecer a [Rocketseat] ( https://github.com/Rocketseat) por criar e forn
 ---
 
 Feito com Felipe Lima da Silva: wave:
-=======
-# Ecoleta
-Ecoleta é um projeto que foi desenvolvido na Semana do Meio Ambiente. O Objetivo é conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, pilhas e baterias, papéis e papelão, resíduos eletrônicos, resíduos orgânicos e óleo de cozinha.
->>>>>>> c2cb16e888d2a9a7cb9cee35e8779b26ef35526a
