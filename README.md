@@ -1,4 +1,4 @@
-<img alt="Ecoleta Template" src= "public/assets/tema.png" />
+<img alt="Ecoleta Template" src= "public/assets/Template.png" />
 
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/fehliimaa" target="_blank">
-    <img alt="Por: Felipe Lima" src="https://img.shields.io/badge/made%20by-Carlos_Miguel-informational?color=34CB79">
+    <img alt="Por: Felipe Lima" src="https://img.shields.io/badge/made%20by-Felipe_Lima-informational?color=34CB79">
   </a>
   <a href="https://github.com/fehliimaa" target="_blank" >
     <img alt="Github - fehliimaa" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
@@ -37,9 +37,8 @@
 
 ## :rocket: Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias:
-
+  
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Node.js](https://nodejs.org/en/)
 - [Knex](https://knexjs.org/)
 - [SQLite3](https://www.sqlite.org/index.html)
 
