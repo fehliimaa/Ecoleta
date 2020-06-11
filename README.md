@@ -1,4 +1,4 @@
-<img alt="Ecoleta Template" src= "public/assets/template.jpeg" />
+<img alt="Ecoleta Template" src= "public/assets/template.png" />
 
 
 <p align="center">
