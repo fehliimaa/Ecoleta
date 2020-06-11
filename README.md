@@ -1,11 +1,4 @@
-<img alt="Ecoleta Template" src= "public/assets/tema.png" />
-
-
-<p align="center">
-  <a href="LICENSE" style="text-decoration: none">
-    <img alt="License" src="https://github.com/fehliimaa/Ecoleta/blob/master/LICENSE" />
-  </a>
-</p>
+<img alt="Ecoleta Template" src= "public/assets/tema.png" />  
 
 <p align="center">
   <a href="https://github.com/fehliimaa" target="_blank">
