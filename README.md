@@ -1,4 +1,4 @@
-<img alt="Ecoleta Template" src= "https://github.com/fehliimaa/ecoleta/blob/master/assets/template.jpeg?raw=true" />
+<img alt="Ecoleta Template" src= "public/assets/template.jpeg" />
 
 
 <p align="center">
